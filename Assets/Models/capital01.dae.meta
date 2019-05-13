@@ -8,7 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Capital01-01a-mat
-    second: {fileID: 2100000, guid: 602e07dc01694ae46850ae85fdcb65fd, type: 2}
+    second: {fileID: 2100000, guid: 7e67db5de5cea244c801b47526ed85d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital01-01b-mat
+    second: {fileID: 2100000, guid: 7feb45bb25a48424f912fb752ad3efb6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -17,8 +22,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Capital01-02b-mat
+    second: {fileID: 2100000, guid: 60e271f720d6ce040ad0129dd3fec678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital01-02c-mat
+    second: {fileID: 2100000, guid: fb59c4c38670c8b4da01a6b590610723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Capital01-03a-mat
     second: {fileID: 2100000, guid: 86542028da8b97149b7ff33ed8ed990e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital01-03b-mat
+    second: {fileID: 2100000, guid: d5f271157c14d374991988358937fd86, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -27,13 +47,38 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Capital01-04b-mat
+    second: {fileID: 2100000, guid: 4b05b5ff5e8dd5f4e9e3555dc7cb734d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital01-05b-mat
+    second: {fileID: 2100000, guid: 037e7cce5fcb0e94f89fbfb215856240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Capital01-06a-mat
     second: {fileID: 2100000, guid: b7deaaef8b01f6a41a19bd17d4e8fce6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Capital01-07a-mat
+    second: {fileID: 2100000, guid: c2f7fa327d0b1c64cb2fd3ce56712c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: capital01-01c-mat
+    second: {fileID: 2100000, guid: b8007c68da4bf1b41b2f5c3d67934b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: capital01-05a-mat
     second: {fileID: 2100000, guid: ff2932defbc716a4c8a4fec84ba9db25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: invisible-mat
+    second: {fileID: 2100000, guid: 261ae6979e3bf854496862393247bfcc, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
