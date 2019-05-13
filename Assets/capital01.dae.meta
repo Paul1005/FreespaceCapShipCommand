@@ -3,7 +3,37 @@ guid: e45e281d766b23d42aabf56666fb557b
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital01-01a-mat
+    second: {fileID: 2100000, guid: 602e07dc01694ae46850ae85fdcb65fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital01-02a-mat
+    second: {fileID: 2100000, guid: 06d456edcdb7c024f8871b3b75e6fba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital01-03a-mat
+    second: {fileID: 2100000, guid: 86542028da8b97149b7ff33ed8ed990e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital01-04a-mat
+    second: {fileID: 2100000, guid: 663da1fcb994f0045af914fb605d837b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital01-06a-mat
+    second: {fileID: 2100000, guid: b7deaaef8b01f6a41a19bd17d4e8fce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: capital01-05a-mat
+    second: {fileID: 2100000, guid: ff2932defbc716a4c8a4fec84ba9db25, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
